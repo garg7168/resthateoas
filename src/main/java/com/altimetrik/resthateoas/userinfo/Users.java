@@ -1,8 +1,8 @@
 package com.altimetrik.resthateoas.userinfo;
 
-import org.springframework.hateoas.ResourceSupport;
+import org.springframework.hateoas.RepresentationModel;
 
-public class Users extends ResourceSupport{
+public class Users extends RepresentationModel{
 	 	private String name;
 	    private Integer salary;
 	    private Integer userid;
