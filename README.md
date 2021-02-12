@@ -1,5 +1,6 @@
 # resthateoas
 
+After running the java application, below are the links which can be tested for hateoas concepts:
 http://localhost:8005/rest/users/all
 http://localhost:8005/rest/users/hateoas/all
 http://localhost:8005/rest/users/1/report
